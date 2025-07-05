@@ -1,4 +1,5 @@
-terraform-backend-cicd
+terraform-backend-githubactions
+---------------------------------
 
 This project creates a full terraform project for dev/prod environments that creates s3 backend with dynamodb lockid table and integrated with github actions CI/CD pipeline
 
