@@ -11,6 +11,7 @@ Integrated CI/CD pipelines (GitHub Actions)
 
 ✅ Project Structure
 
+'''
 terraform-project/
 ├── environments/
 │   ├── dev/
@@ -31,6 +32,7 @@ terraform-project/
 ├── terraform.tfvars
 ├── variables.tf
 └── README.md
+'''
 
 1. ✅ backend-bootstrap/ — Bootstraps the S3 bucket and DynamoDB table
 backend-bootstrap/main.tf
